@@ -1,1 +1,16 @@
-# get-data-cep-api
+# Sobre o projeto
+- Programa desenvolvido para pesquisar endereços no Brasil.
+
+# Tecnologias utilizadas
+- HTML
+- JS
+- CSS
+- BOOTSTRAP 5.1
+
+# Como rodar
+- Abrir arquivo .html no navegador
+
+# Imagem do projeto
+<p align="center">
+  <img width="30%" src="https://github.com/eduardotks/get-data-cep-api/blob/imagens/capa.png">
+</p>

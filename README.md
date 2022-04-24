@@ -3,7 +3,7 @@
 
 # Tecnologias utilizadas
 - HTML
-- JS
+- JavaScript
 - CSS
 - BOOTSTRAP 5.1
 

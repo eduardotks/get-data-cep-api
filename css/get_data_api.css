@@ -1,0 +1,9 @@
+legend {
+    float: none;
+    padding: inherit;
+}
+
+fieldset {
+    background: linear-gradient(45deg, #00c8ff69, #ffeec6);
+    border-radius: 5px;
+}
